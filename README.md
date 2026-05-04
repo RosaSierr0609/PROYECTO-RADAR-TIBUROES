@@ -13,12 +13,9 @@
 
 ---
 
-## 📸 Demo
+## 🌐 Enlace al Proyecto
 
-<!-- Sustituye esto por una captura, GIF o enlace al deploy -->
-![Demo del proyecto](./assets/demo.png)
-
-🔗 **Demo en vivo:** [https://tu-usuario.github.io/PROYECTO-RADAR-TIBUROES](https://tu-usuario.github.io/PROYECTO-RADAR-TIBUROES)
+🔗 **Accede al proyecto en vivo:** [https://proyecto-radar-tiburoes-omurduncgdidtynmfoensx.streamlit.app]
 
 ---
 
