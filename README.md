@@ -38,7 +38,7 @@
 
 ## 📖 Descripción
 
-Este proyecto permite explorar datos históricos sobre ataques de tiburones a nivel global mediante un tablero interactivo. Está diseñado para investigadores, estudiantes y entusiastas del análisis de datos que deseen visualizar patrones y tendencias en incidentes históricos.
+Este proyecto permite explorar datos históricos sobre ataques de tiburones a nivel global mediante un tablero interactivo. Está diseñado para aquellos que deseen visualizar patrones y tendencias en incidentes históricos.
 
 ---
 
